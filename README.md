@@ -1,0 +1,1 @@
+Versão final do projeto do Curso de Spring Data JPA: Repositórios, Consultas, Projeções e Specifications.
